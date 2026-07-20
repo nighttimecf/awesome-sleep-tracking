@@ -1,37 +1,35 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it using the metadata from this file."
-title: "o2ring-analyzer: command-line analysis of overnight pulse-oximetry recordings from consumer wearable oximeters"
+message: "If you use this list in your work, please cite it as below."
+title: "Awesome Sleep Tracking: a curated index of tools, devices, datasets and open-source software for sleep measurement"
 abstract: >-
-  A command-line tool for analysing overnight pulse-oximetry recordings exported
-  from Wellue/Viatom O2Ring devices. Computes the oxygen desaturation index under
-  both the 3% and 4% threshold definitions, performs event-level desaturation
-  detection with onset, nadir, duration and recovery, and reports nadir SpO2 and
-  time below configurable thresholds. Baseline and event-duration rules are
-  documented so results can be reproduced or compared against other
+  A curated index of the software, hardware, file formats, public datasets and
+  metric definitions used to record and analyse human sleep outside the clinical
+  laboratory. Consumer sleep devices report same-named metrics computed by
+  different, usually undocumented, rules; this list collects the tools and
+  reference material needed to work with the underlying signals directly, and
+  documents where common metrics such as ODI, AHI and RDI diverge between
   implementations.
-type: software
+type: dataset
 authors:
   - given-names: Alex
     family-names: Warenstein
     orcid: "https://orcid.org/0009-0009-7576-5730"
     website: "https://www.nighttimecomfort.com/"
-identifiers:
-  - type: doi
-    value: 10.5281/zenodo.21439508
-    description: "Concept DOI — always resolves to the most recent version"
-repository-code: "https://github.com/nighttimecf/o2ring-analyzer"
-url: "https://www.nighttimecomfort.com/o2ring-data-analysis/"
+repository-code: "https://github.com/nighttimecf/awesome-sleep-tracking"
+url: "https://github.com/nighttimecf/awesome-sleep-tracking"
 keywords:
+  - sleep tracking
+  - polysomnography
   - pulse oximetry
-  - SpO2
   - oxygen desaturation index
-  - ODI
-  - sleep apnea
-  - O2Ring
-  - Wellue
-  - Viatom
+  - CPAP
+  - PAP therapy
+  - EEG
+  - actigraphy
+  - sleep staging
   - wearable sensors
-  - open-source scientific software
-license: MIT
-version: "1.0.5"
-date-released: "2026-07-19"
+  - open data
+  - awesome list
+license: CC0-1.0
+version: "1.0.0"
+date-released: "2026-07-20"
