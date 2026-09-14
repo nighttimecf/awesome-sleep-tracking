@@ -46,6 +46,7 @@ Sleep data is scattered across proprietary apps that each report their own numbe
 
 ### Actigraphy and Wearables
 
+- [CareClinic](https://careclinic.io/sleep-tracker/) — Sleep diary that imports compatible wearable data and exports user logs as CSV.
 - [pyActigraphy](https://github.com/ghammad/pyActigraphy) — Reads actigraphy data from seven device formats and computes non-parametric rest-activity variables (IS, IV, RA), fragmentation metrics and the Sleep Regularity Index. Well documented with interactive tutorials.
 - [HypnosPy](https://github.com/HypnosPy/HypnosPy) — Device-agnostic Python library for circadian rhythm and sleep analysis, handling acceleration, actigraphy and heart rate at different sampling rates in one framework.
 - [GGIR](https://github.com/wadpac/GGIR) — R package for raw accelerometer data, the most widely cited tool in accelerometer-based sleep and physical-activity epidemiology.
