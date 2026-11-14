@@ -136,6 +136,10 @@ The single biggest source of confusion in consumer sleep data is that different 
 - **WatchPAT One** — Peripheral arterial tonometry HSAT, disposable, prescription-dependent by region.
 - **Belun Ring**, **Onera STS** — Newer HSAT devices with clinical validation studies.
 
+### PAP Data Bridges
+- [Mule & Miner](https://www.cpapdash.com/hardware/mule-miner) - Commercial WiFi device that pulls each night from a CPAP's WiFi SD adapter, such as ez Share or Toshiba FlashAir (ResMed AirSense 10/11, BMC Luna), or over Bluetooth (AirSense 11, DreamStation 2) and sends it to HMS-CPAP locally or to CpapDash in the cloud.
+- [Sleep Bridge Lite](https://www.cpapdash.com/hardware/sleep-bridge-lite) - Commercial SD-slot adapter that passively captures what a ResMed AirSense 10/11 or BMC Luna writes to its card during the night and streams it over WiFi to HMS-CPAP locally or to CpapDash in the cloud.
+
 ---
 
 ## Vendor APIs
