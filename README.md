@@ -28,6 +28,7 @@ Sleep data is scattered across proprietary apps that each report their own numbe
 
 ### PAP Therapy
 
+- [HMS-CPAP](https://github.com/hms-homelab/hms-cpap) - MIT-licensed, local-only viewer that parses data from ResMed AirSense 10/11, Philips DreamStation 2, Löwenstein Prisma, Sefam S.Box and BMC Luna machines into charts, events, trends and PDF reports, with optional Home Assistant sensors; runs on Windows, macOS, Linux, Raspberry Pi, Docker and Home Assistant.
 - [OSCAR](https://www.sleepfiles.com/OSCAR) — Open Source CPAP Analysis Reporter. Reads SD-card data from most CPAP, APAP and BiLevel machines and renders it down to breath-by-breath detail. The reference tool for anyone titrating their own therapy. Windows, macOS, Linux.
 - [OSCAR on Flathub](https://github.com/flathub/com.sleepfiles.OSCAR) — Flatpak packaging for Linux distributions.
 - [SleepHQ](https://sleephq.com) — Web-based PAP data hosting and analysis with shareable links. Commercial with a free tier; widely used for asking forums to review a night.
