@@ -74,6 +74,7 @@ Sleep data is scattered across proprietary apps that each report their own numbe
 
 - [wellue-o2ring-protocol](https://github.com/farolone/wellue-o2ring-protocol) — Reverse-engineered Bluetooth Low Energy protocol documentation for the Wellue O2Ring, for reading data live rather than via vendor export.
 - [Sleep as Android forum — hardware integration](https://forum.urbandroid.org) — Long-running discussions on integrating oximeters, rings and EEG headbands, including protocol changes between device revisions.
+- [MuseRecorder](https://github.com/Shisi141414/MuseRecorder) — Open-source Android app for Muse headbands (Muse S Gen 2 / Muse 2 / Muse S / Muse 2016) that records Mind Monitor-compatible CSV with live EEG views; includes reverse-engineered BLE protocol notes (docs/PROTOCOL.md).
 
 ---
 
