@@ -67,6 +67,7 @@ Sleep data is scattered across proprietary apps that each report their own numbe
 - [EDF / EDF+ specification](https://www.edfplus.info) — The European Data Format, the lingua franca of polysomnography. Read this before writing any parser.
 - [pyEDFlib](https://github.com/holgern/pyEDFlib) — Python reader and writer for EDF/EDF+ and BDF files.
 - [Sleep as Android CSV export format](https://docs.sleep.urbandroid.org/services/csv.html) — Documented export schema for one of the largest consumer sleep-tracking datasets in existence.
+- [Sleep Diary Toolkit](https://github.com/hollyjessie36/sleep-diary-toolkit) - JavaScript library and offline CLI for summing manual CSV sleep segments and comparing seven logged nights with a user-defined goal.
 
 ---
 
