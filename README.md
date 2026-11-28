@@ -12,6 +12,7 @@ Sleep data is scattered across proprietary apps that each report their own numbe
   - [EEG and Polysomnography](#eeg-and-polysomnography)
   - [Actigraphy and Wearables](#actigraphy-and-wearables)
   - [Automatic Sleep Staging](#automatic-sleep-staging)
+  - [Patient Planning Tools](#patient-planning-tools)
 - [File Formats and Libraries](#file-formats-and-libraries)
 - [Device Protocols and Reverse Engineering](#device-protocols-and-reverse-engineering)
 - [Datasets](#datasets)
@@ -59,6 +60,13 @@ Sleep data is scattered across proprietary apps that each report their own numbe
 - [TinySleepNet](https://github.com/akaraspt/tinysleepnet) — Compact deep-learning model for single-channel EEG sleep staging.
 - [AutoSleepScorer](https://github.com/skjerns/AutoSleepScorer) — Sleep stage classification package. The README is also an unusually honest comparison of its own accuracy against newer alternatives.
 - [SleepECG](https://github.com/cbrnr/sleepecg) — Sleep staging from ECG and heart-rate variability, useful when EEG is unavailable.
+
+### Patient Planning Tools
+
+- [Home vs lab sleep test chooser](https://home-or-lab-sleep-test-chooser.pages.dev/) — Walks through symptoms and constraints that favour home testing versus an attended lab study. A decision aid, not a diagnosis.
+- [CPAP rent-or-own calculation](https://cpap-rent-or-own-math.pages.dev/) — Makes the insurance deductible and rental period explicit before committing to a device route.
+- [Sleep study report question list](https://burfe.gitbook.io/burfe-docs/sleep-study-report-question-list) — Turns a dense sleep study report into questions a patient can bring to a follow-up appointment.
+- [Positional sleep apnea side-sleep trial](https://ahmetalkan.github.io/positional-sleep-apnea-side-sleep-trial/) — Structured worksheet for testing whether position changes alter symptoms. Also available in a [render-hosted version](https://positional-sleep-apnea-side-sleep-trial.onrender.com/).
 
 ---
 
